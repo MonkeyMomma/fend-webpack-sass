@@ -9,7 +9,7 @@ import './styles/header.scss'
 
 console.log(checkForName);
 
-alert("I EXIST")
+alert("This is the way.")
 
 export {
     checkForName,
